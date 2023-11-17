@@ -1,1 +1,1 @@
-## Esperanto Skanaduko
+## Esperanta Skanaduko
