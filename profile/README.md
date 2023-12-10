@@ -1,6 +1,6 @@
-## Esperanta Skanaduko
+# Esperanta Skanaduko
 
-Learning Esperanto
+## Learning Esperanto
 --------------------
 
 * [Complete Esperanto](https://www.amazon.com/Complete-Esperanto-Learn-write-understand/dp/1473669189/)
