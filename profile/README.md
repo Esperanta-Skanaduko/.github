@@ -1,7 +1,6 @@
 # Esperanta Skanaduko
 
 ## Learning Esperanto
---------------------
 
 * [Complete Esperanto](https://www.amazon.com/Complete-Esperanto-Learn-write-understand/dp/1473669189/)
 * [So many ways to learn Esperanto](http://www.learnlangs.com/esperanto/resources)
