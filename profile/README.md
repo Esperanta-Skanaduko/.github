@@ -222,13 +222,6 @@ Congratulations on finishing the Esperanto tree! Now you’re probably wondering
 * [Chinese International Radio](http://esperanto.cri.cn/) - news from China
 * [Kontakto](http://tejo.org/duolingo/?lang=en) - TEJO's cultural magazine
 
-### Put yourself on the map
-
-* [Amikumu](https://www.amikumu.com/) - find Esperanto speakers near you (or speakers of other languages)
-* [Esperantujo.directory](http://esperantujo.directory/) - Esperanto speaker directory
-* [Duolingo-Esperantistoj](https://www.google.com/maps/d/u/0/edit?mid=zHwhupZfxV_M.kEbZgnHaKo-o) - world map
-* [Esperanto in the USA](https://www.duolingo.com/comment/9089428) - USA map
-
 ### Cooperate in Esperanto
 
 * [Stack Exchange](https://esperanto.stackexchange.com/) - Ask or answer questions about Esperanto
